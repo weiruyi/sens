@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../ConvNeXt/.idea/ConvNeXt.iml" filepath="$PROJECT_DIR$/../ConvNeXt/.idea/ConvNeXt.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/DenseNet/.idea/DenseNet.iml" filepath="$USER_HOME$/PycharmProjects/DenseNet/.idea/DenseNet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Gan/.idea/Gan.iml" filepath="$PROJECT_DIR$/../Gan/.idea/Gan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../master/PPASR-develop/PPASR-develop/.idea/PPASR-develop.iml" filepath="$PROJECT_DIR$/../../master/PPASR-develop/PPASR-develop/.idea/PPASR-develop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../WaveRNN/.idea/WaveRNN.iml" filepath="$PROJECT_DIR$/../WaveRNN/.idea/WaveRNN.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../conformer/.idea/conformer.iml" filepath="$PROJECT_DIR$/../conformer/.idea/conformer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/sens.iml" filepath="$PROJECT_DIR$/.idea/sens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../std/.idea/std.iml" filepath="$PROJECT_DIR$/../std/.idea/std.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tacotron2/.idea/tacotron2.iml" filepath="$PROJECT_DIR$/../tacotron2/.idea/tacotron2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../wavenet_vocoder/.idea/wavenet_vocoder.iml" filepath="$PROJECT_DIR$/../wavenet_vocoder/.idea/wavenet_vocoder.iml" />
+    </modules>
+  </component>
+</project>

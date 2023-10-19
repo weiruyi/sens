@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/venv" />
+    </content>
+    <content url="file://$MODULE_DIR$/../wavenet_vocoder">
+      <sourceFolder url="file://$MODULE_DIR$/../wavenet_vocoder" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="Pytorch" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="DenseNet" />
+    <orderEntry type="module" module-name="Gan" />
+    <orderEntry type="module" module-name="PPASR-develop" />
+    <orderEntry type="module" module-name="conformer" />
+    <orderEntry type="module" module-name="tacotron2" />
+    <orderEntry type="module" module-name="wavenet_vocoder" />
+    <orderEntry type="module" module-name="WaveRNN" />
+    <orderEntry type="module" module-name="std" />
+    <orderEntry type="module" module-name="ConvNeXt" />
+  </component>
+</module>
